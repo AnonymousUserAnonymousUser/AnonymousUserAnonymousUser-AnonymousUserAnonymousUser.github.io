@@ -1,7 +1,7 @@
 # Practical Deployment SelfSVD in Surgery.
 
 
-## Please wait a few seconds for loading videos.
+## **Please wait a few seconds for loading videos**.
 
 ## Demo1 Results
 
