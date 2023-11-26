@@ -5,7 +5,7 @@
 
 ## Demo1 Results
 
-### Input Smoky Video.
+### Input Smoky Video
 
 <p align="center">
 <img src="./videos/demo1_in.gif"
@@ -13,7 +13,7 @@
      >
 </p>
 
-### Output Video.
+### Output Video
 
 <p align="center">
 <img src="./videos/demo1_out.gif"
@@ -22,7 +22,7 @@
 
 ## Demo2 Results
 
-### Input Smoky Video.
+### Input Smoky Video
 
 <p align="center">
 <img src="./videos/demo2_in.gif"
@@ -30,7 +30,7 @@
      >
 </p>
 
-### Output Video.
+### Output Video
 
 <p align="center">
 <img src="./videos/demo2_out.gif"
