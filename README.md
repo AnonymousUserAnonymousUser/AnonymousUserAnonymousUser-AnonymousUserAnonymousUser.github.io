@@ -1,41 +1,50 @@
-# Practical Deployment SelfSVD in Surgical Scenarios.
+# Practical Deployment SelfSVD in Surgery.
 
 
-### Please wait a few seconds for loading videos.
+## Please wait a few seconds for loading videos.
 
 ## Demo1 Results
 
-### Input Smoky Video
-
-<p align="center">
-<img src="./videos/demo1_in.gif"
-     class="center"
-     >
-</p>
-
-### Output Video
-
-<p align="center">
-<img src="./videos/demo1_out.gif"
-     class="center">
-</p>
+<table>
+  <tr> 
+     <td>
+          <center>Input Smoky Video</center>
+    </td>
+     <td>
+          <center>Output Video</center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./videos/demo1_in.gif">
+    </td>
+    <td>
+      <img src="./videos/demo1_out.gif">
+    </td>
+  </tr>
+</table>
 
 ## Demo2 Results
 
-### Input Smoky Video
+<table>
+  <tr> 
+     <td>
+          <center>Input Smoky Video</center>
+    </td>
+     <td>
+          <center>Output Video</center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./videos/demo2_in.gif">
+    </td>
+    <td>
+      <img src="./videos/demo2_out.gif">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-<img src="./videos/demo2_in.gif"
-     class="center"
-     >
-</p>
-
-### Output Video
-
-<p align="center">
-<img src="./videos/demo2_out.gif"
-     class="center">
-</p>
 
 
 
